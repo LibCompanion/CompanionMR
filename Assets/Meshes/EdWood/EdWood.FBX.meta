@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: db9ee8fbf7aee6a4eae8eea416b9b04a
+timeCreated: 1521337150
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: iWood
+    100004: iWood Head
+    100006: iWood HeadNub
+    100008: iWood L Calf
+    100010: iWood L Clavicle
+    100012: iWood L Finger0
+    100014: iWood L Finger0Nub
+    100016: iWood L Foot
+    100018: iWood L Forearm
+    100020: iWood L Hand
+    100022: iWood L Thigh
+    100024: iWood L Toe0
+    100026: iWood L Toe0Nub
+    100028: iWood L UpperArm
+    100030: iWood Neck
+    100032: iWood Neck1
+    100034: iWood Pelvis
+    100036: iWood R Calf
+    100038: iWood R Clavicle
+    100040: iWood R Finger0
+    100042: iWood R Finger0Nub
+    100044: iWood R Foot
+    100046: iWood R Forearm
+    100048: iWood R Hand
+    100050: iWood R Thigh
+    100052: iWood R Toe0
+    100054: iWood R Toe0Nub
+    100056: iWood R UpperArm
+    100058: iWood Spine
+    100060: iWood Spine1
+    100062: iWood Spine2
+    100064: Mesh_Ed_Wood
+    400000: //RootNode
+    400002: iWood
+    400004: iWood Head
+    400006: iWood HeadNub
+    400008: iWood L Calf
+    400010: iWood L Clavicle
+    400012: iWood L Finger0
+    400014: iWood L Finger0Nub
+    400016: iWood L Foot
+    400018: iWood L Forearm
+    400020: iWood L Hand
+    400022: iWood L Thigh
+    400024: iWood L Toe0
+    400026: iWood L Toe0Nub
+    400028: iWood L UpperArm
+    400030: iWood Neck
+    400032: iWood Neck1
+    400034: iWood Pelvis
+    400036: iWood R Calf
+    400038: iWood R Clavicle
+    400040: iWood R Finger0
+    400042: iWood R Finger0Nub
+    400044: iWood R Foot
+    400046: iWood R Forearm
+    400048: iWood R Hand
+    400050: iWood R Thigh
+    400052: iWood R Toe0
+    400054: iWood R Toe0Nub
+    400056: iWood R UpperArm
+    400058: iWood Spine
+    400060: iWood Spine1
+    400062: iWood Spine2
+    400064: Mesh_Ed_Wood
+    4300000: Mesh_Ed_Wood
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mesh_Ed_Wood
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: iWood Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood Neck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: iWood Neck
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: EdWood(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.4999988, y: -0.5000012, z: -0.5000012, w: -0.4999988}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood
+      parentName: EdWood(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.0386378e-33, y: 0.0000002663161, z: 1.6307159e-23, w: 1}
+      scale: {x: 39, y: 39, z: 39}
+    - name: iWood Pelvis
+      parentName: iWood
+      position: {x: -0.00000012751934, y: 3.9479025e-30, z: 0.024310414}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: iWood Spine
+      parentName: iWood Pelvis
+      position: {x: 0.000032194315, y: 0.000009350205, z: 0.000000006055833}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999994, y: 0.9999994, z: 0.99999994}
+    - name: iWood Spine1
+      parentName: iWood Spine
+      position: {x: -0.0074596447, y: -0.0000026645675, z: 0.000000007569787}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood Spine2
+      parentName: iWood Spine1
+      position: {x: -0.0033184262, y: -0.0000023981095, z: -0.000000022709367}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1.0000001}
+    - name: iWood Neck
+      parentName: iWood Spine2
+      position: {x: -0.0029912903, y: -0.0000018409714, z: 0.00000000756979}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.99999994}
+    - name: iWood L Clavicle
+      parentName: iWood Neck
+      position: {x: -0, y: 0.0000018894181, z: 0.0016218792}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood L UpperArm
+      parentName: iWood L Clavicle
+      position: {x: -0.0031479846, y: 0.000000024224805, z: 0.000000003027916}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 1.0000002, z: 1.0000006}
+    - name: iWood L Forearm
+      parentName: iWood L UpperArm
+      position: {x: -0.008416128, y: -0.00000007265815, z: -3.784895e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: iWood L Hand
+      parentName: iWood L Forearm
+      position: {x: -0.00733124, y: -0.000000048446655, z: -0.000000005677342}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.000001}
+    - name: iWood L Finger0
+      parentName: iWood L Hand
+      position: {x: -0.00203568, y: 0.00010702774, z: -0.0000052806854}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood L Finger0Nub
+      parentName: iWood L Finger0
+      position: {x: -0.0008059585, y: 0.000000018167496, z: -9.462237e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood Neck1
+      parentName: iWood Neck
+      position: {x: -0.0023687992, y: -0.0000014049544, z: 0.000000003027916}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood Head
+      parentName: iWood Neck1
+      position: {x: -0.001751613, y: -0.000000024223327, z: 0.000000016653537}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
+    - name: iWood HeadNub
+      parentName: iWood Head
+      position: {x: -0.006519733, y: 0, z: -0.000000009083753}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood R Clavicle
+      parentName: iWood Neck
+      position: {x: -0, y: 0.0000018894181, z: -0.0016218671}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood R UpperArm
+      parentName: iWood R Clavicle
+      position: {x: -0.0031479846, y: -0.00000002422185, z: 0.000000024223327}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000013, z: 1.0000013}
+    - name: iWood R Forearm
+      parentName: iWood R UpperArm
+      position: {x: -0.008416101, y: 0.000000024034083, z: 0.000000012111664}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.000001, z: 1.0000004}
+    - name: iWood R Hand
+      parentName: iWood R Forearm
+      position: {x: -0.007331263, y: -0.000000024223327, z: 0.000000024223327}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.000001, y: 1.0000013, z: 1.0000001}
+    - name: iWood R Finger0
+      parentName: iWood R Hand
+      position: {x: -0.0020356572, y: 0.00010703532, z: 0.0000052806854}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000001}
+    - name: iWood R Finger0Nub
+      parentName: iWood R Finger0
+      position: {x: -0.0008059813, y: -0.000000013247132, z: 0.000000048423}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: iWood L Thigh
+      parentName: iWood Spine
+      position: {x: -0.00003219129, y: -0.000009398653, z: 0.0026724443}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000006}
+    - name: iWood L Calf
+      parentName: iWood L Thigh
+      position: {x: -0.010626965, y: 0.000000048493966, z: 0.000000011733174}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: iWood L Foot
+      parentName: iWood L Calf
+      position: {x: -0.010912704, y: -3.4004913e-11, z: 0.000000012111664}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: iWood L Toe0
+      parentName: iWood L Foot
+      position: {x: -0.0020626525, y: 0.00396594, z: 0.0000000041633843}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000015, y: 1.0000002, z: 1.0000013}
+    - name: iWood L Toe0Nub
+      parentName: iWood L Toe0
+      position: {x: -0.00084362546, y: 1.18277966e-11, z: -0.000000006055832}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: iWood R Thigh
+      parentName: iWood Spine
+      position: {x: -0.000032167063, y: -0.0000093744275, z: -0.0026724567}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000004}
+    - name: iWood R Calf
+      parentName: iWood R Thigh
+      position: {x: -0.010626967, y: 4.7311186e-11, z: -0.000000005677342}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000005}
+    - name: iWood R Foot
+      parentName: iWood R Calf
+      position: {x: -0.010912704, y: -0.00000004842448, z: -0.000000005298853}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999998}
+    - name: iWood R Toe0
+      parentName: iWood R Foot
+      position: {x: -0.0020626648, y: 0.0039659156, z: 0.0000000026494265}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: iWood R Toe0Nub
+      parentName: iWood R Toe0
+      position: {x: -0.0008436743, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Ed_Wood
+      parentName: EdWood(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 165.79, y: 165.79, z: 233.59227}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

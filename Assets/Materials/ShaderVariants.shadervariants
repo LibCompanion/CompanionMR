@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ShaderVariants
+  m_Shaders:
+    data:
+      first: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: _SUNDISK_SIMPLE
+          passType: 0
+    data:
+      first: {fileID: 9000, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 9001, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 4800000, guid: f1f3948b20c230044bda31b620ddd37f, type: 3}
+      second:
+        variants:
+        - keywords: DIRECTIONAL _USEEMISSIONCOLOR_ON _USEMAINCOLOR_ON _USEMAINTEX_ON
+          passType: 4
+        - keywords: SHADOWS_DEPTH
+          passType: 8
