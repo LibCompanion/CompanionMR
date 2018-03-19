@@ -1,17 +1,17 @@
 # CompanionMR
 
-Windows Mixed Reality application that showcases the [Companion](https://github.com/LibCompanion/libCompanion/) object recognition framework on a HoloLens device.
+Windows Mixed Reality application that showcases the [Companion](https://github.com/LibCompanion/Companion) object recognition framework on a HoloLens device.
 
 Demo video:
 
-[![Video: Companion on Microsoft HoloLens](http://img.youtube.com/vi/d8Utp1bLp0Y/0.jpg)](https://www.youtube.com/watch?v=d8Utp1bLp0Y)
+[![Video: Companion on Microsoft HoloLens](https://img.youtube.com/vi/d8Utp1bLp0Y/0.jpg)](https://www.youtube.com/watch?v=d8Utp1bLp0Y)
 
-Some assets are not included into the source code because of copyright restrictions. However, you can sideload [the demo app](/releases/latest) onto your device for an unrestricted experience. Please make sure to use the [CompanionAPI](https://github.com/LibCompanion/CompanionAPI) Web Service to provide AR information for the artworks when the application is started for the first time. Please refer to the [official documentation](https://developer.microsoft.com/en-us/windows/mixed-reality/using_the_windows_device_portal#apps) by Microsoft to learn how to use the Device Portal for sideloading.
+Some assets are not included into the source code because of copyright restrictions. However, you can sideload the [demo app](../../releases/latest) onto your device for an unrestricted experience. Please make sure to use the [CompanionAPI](https://github.com/LibCompanion/CompanionAPI) Web Service to provide AR information for the artworks when the application is started for the first time. Please refer to the [official documentation](https://developer.microsoft.com/en-us/windows/mixed-reality/using_the_windows_device_portal#apps) by Microsoft to learn how to use the Device Portal for sideloading.
 
 ## Dependencies
 
 * Companion for WinRT/UWP: [CompanionWinRT](https://github.com/LibCompanion/CompanionWinRT)
-* OpenCV 3 for WinRT/UWP: [opencvWinRT](https://github.com/LibCompanion/opencvWinRT/)
+* OpenCV 3 for WinRT/UWP: [opencvWinRT](https://github.com/LibCompanion/opencvWinRT)
 * A RESTful web service that manages the data library for CompanionMR: [CompanionAPI](https://github.com/LibCompanion/CompanionAPI)
 * HoloToolkit: [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity)
 > All HoloToolkit code alterations are described in [HoloToolkit_Diff.md](Assets/HoloToolkit/HoloToolkit_Diff.md).
