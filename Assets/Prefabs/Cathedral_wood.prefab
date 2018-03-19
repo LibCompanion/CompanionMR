@@ -1485,7 +1485,7 @@ Animator:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1779418329561330}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 9000000, guid: db9ee8fbf7aee6a4eae8eea416b9b04a, type: 3}
   m_Controller: {fileID: 9100000, guid: a7c02d91534f8904898c012c313fb68e, type: 2}
   m_CullingMode: 1
@@ -1717,7 +1717,7 @@ CharacterJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -0.00841613, y: -0.00000007375638, z: 0.000000008931238}
+  m_ConnectedAnchor: {x: -0.008416133, y: -0.00000007257404, z: -9.313226e-10}
   serializedVersion: 2
   m_SwingAxis: {x: 0, y: 1, z: 0}
   m_TwistLimitSpring:
@@ -2113,7 +2113,7 @@ CharacterJoint:
   m_Anchor: {x: 0, y: 0, z: 0}
   m_Axis: {x: -1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -0.0084161, y: 0.000000029147486, z: 0.00000000102591}
+  m_ConnectedAnchor: {x: -0.008416097, y: 0.00000002458546, z: 0.000000010244548}
   serializedVersion: 2
   m_SwingAxis: {x: 0, y: 1, z: 0}
   m_TwistLimitSpring:
