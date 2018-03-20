@@ -162,8 +162,8 @@ namespace CompanionMR {
         /**
          * Try to detect a table shape near the given position.
          * 
-         * @nearPos     position near which the shape should be detected
-         * @callback    callback method    
+         * @param nearPos   position near which the shape should be detected
+         * @param callback  callback method    
          */
         public void FindTable(Vector3 nearPos, ResponseDelegate callback) {
             this.Query_Shape_FindShapeHalfDims("Table", nearPos, false, callback);

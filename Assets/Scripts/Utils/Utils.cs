@@ -76,7 +76,7 @@ namespace CompanionMR {
          * 
          * @param start         start point of this line in world coordinates
          * @param end           end point of this line in world coordinates
-         * @param wdith         line width
+         * @param width         line width
          * @param color         color of this line
          * @param lineMaterial  material of this line
          * @param parent        parent GameObject of this line

@@ -91,7 +91,7 @@ namespace CompanionMR {
          * Add a new shape definition.
          * 
          * @param shapeName         shape name
-         * @param shapeComponent    list of shape components
+         * @param shapeComponents   list of shape components
          * @param shapeConstraints  list of shape constraints
          */
         private void AddShape(string shapeName, List<ShapeComp> shapeComponents, List<ShapeConst> shapeConstraints = null) {

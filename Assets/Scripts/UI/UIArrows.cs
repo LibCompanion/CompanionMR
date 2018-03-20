@@ -145,7 +145,7 @@ namespace CompanionMR {
         /**
          * Set the arrow material to the given alpha value.
          * 
-         * @alpha   target alpha value
+         * @param alpha target alpha value
          */
         private void SetAlpha(float alpha) {
             // Go through all the arrow renderers and set the given property of their material to the current alpha

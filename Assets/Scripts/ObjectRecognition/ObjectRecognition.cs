@@ -69,7 +69,15 @@ namespace CompanionMR {
          * This struct capsules information about a feature matching model operation.
          */
         private struct FmModelOperationInfo {
+
+            /**
+             * Artwork ID.
+             */
             public int ArtworkID { get; set; }
+
+            /**
+             * Feature matching model operation.
+             */
             public FmModelOperation Operation { get; set; }
         }
 
