@@ -2577,7 +2577,7 @@ GameObject:
   - component: {fileID: 684476702}
   - component: {fileID: 684476701}
   m_Layer: 0
-  m_Name: Recording
+  m_Name: Capturing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
